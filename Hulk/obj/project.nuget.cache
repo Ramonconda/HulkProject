@@ -1,8 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "hPSBhFi7LypGhHXADNiyh8eWSW9btGjgCTgBdUUJehQ98VcIFJ4uXL+YtaNShVc1M04LqoiHmx2x+1oQqbJ0EA==",
+  "dgSpecHash": "OiH9H8TU5E5lec3P0qyQ++Y2BpMI4ChBUyeqI2PMkWrx88te7btvD2icSBOBBFB2tFcUq05mJ5usVoUL5SRoZQ==",
   "success": true,
-  "projectFilePath": "D:\\Programcion\\Proyectos\\Hulkproject\\Hulk\\Hulk.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ramon\\OneDrive\\Escritorio\\HulkProject\\Hulk\\Hulk.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
   "logs": []
 }

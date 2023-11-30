@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "S9l9PzqyhSpRh7Gxd+zU0m2HmeBKRzANXmGQA1i8Waz6iDkZY0fEDNb1inp/FIMjqW57nsGKwT3p/zCulP9aZQ==",
+  "dgSpecHash": "5v532IIuFu+QNOihsP0seMhS6OG8UjxjJyJRrszdQgMJMXJaxselJxWZQW3QtPSNI3d26v5UdWkyyDZUyfm87g==",
   "success": true,
-  "projectFilePath": "D:\\Programcion\\Proyectos\\Hulkproject\\HulkConsole\\HulkConsole.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\ramon\\OneDrive\\Escritorio\\HulkProject\\HulkConsole\\HulkConsole.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.23\\microsoft.netcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.23\\microsoft.windowsdesktop.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.23\\microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512",
+    "C:\\Users\\ramon\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.23\\microsoft.netcore.app.host.win-x64.6.0.23.nupkg.sha512"
+  ],
   "logs": []
 }
